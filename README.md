@@ -8,7 +8,7 @@ Espero que aproveite!
 ## Dica de leitura sobre o tema:
 Algumas dicas que leitura que poderão te ajudar a turbinar mais seus conhecimento em testes unitários
 
-* [Unit Tet - Martin Fowler](https://martinfowler.com/bliki/UnitTest.html)
+* [Unit Test - Martin Fowler](https://martinfowler.com/bliki/UnitTest.html)
 * [What is unit Test](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
 
 ## Expert
