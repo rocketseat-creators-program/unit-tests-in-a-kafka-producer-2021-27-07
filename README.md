@@ -5,6 +5,10 @@ Nós como pessoas desenvolvedora sabemo o valor de testes unitários no nosso c�
 Nesta aula você irá aprender como aplicar essa abordagem de teste unitário em um controller que envia eventos e retorna sucesso e erro ao cliente, e também irá aprender como testar um producer do Kafka.
 Espero que aproveite!
 
+## Dica de leitura sobre o tema:
+* [Unit Tet - Martin Fowler](https://martinfowler.com/bliki/UnitTest.html)
+* [What is unit Test](https://smartbear.com/learn/automated-testing/what-is-unit-testing/)
+
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
 | :-: |
