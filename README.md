@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Kafka4devs - Criando testes unitários para um projeto Kafka Producer.
+# Kafka4devs - Criando testes unitários para um projeto Producer.
 Nós como pessoas desenvolvedora sabemo o valor de testes unitários no nosso código e como eles geram robutez e qualidade no nosso software.
 Nesta aula você irá aprender como aplicar essa abordagem de teste unitário em um controller que envia eventos e retorna sucesso e erro ao cliente, e também irá aprender como testar um producer do Kafka.
 Espero que aproveite!
